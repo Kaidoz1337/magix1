@@ -1,0 +1,19 @@
+{
+  "buttons": [
+    {
+      "objectName": "TestButton1",
+      "displayName": "Trade",
+      "command": "trade %STEAMID%"
+    },
+    {
+      "objectName": "TestButton2",
+      "displayName": "Friend add",
+      "command": "friend add %STEAMID%"
+    },
+    {
+      "objectName": "TestButton3",
+      "displayName": "Teleport",
+      "command": "tpr %STEAMID%"
+    }
+  ]
+}
